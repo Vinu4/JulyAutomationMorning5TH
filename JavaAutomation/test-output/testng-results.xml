@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89759" started-at="2021-09-16T21:00:42 IST" finished-at="2021-09-16T21:02:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89759" started-at="2021-09-16T21:00:42 IST" finished-at="2021-09-16T21:02:12 IST">
+      <class name="com.Assgnments.suite.Assngnment6">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:1, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="LaunchBrowser" duration-ms="6765" started-at="2021-09-16T21:00:42 IST" finished-at="2021-09-16T21:00:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="navigate()[pri:2, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="navigate" duration-ms="7941" started-at="2021-09-16T21:00:49 IST" finished-at="2021-09-16T21:00:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="Login()[pri:3, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="Login" duration-ms="5329" started-at="2021-09-16T21:00:57 IST" finished-at="2021-09-16T21:01:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="minimize()[pri:4, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="minimize" duration-ms="3036" started-at="2021-09-16T21:01:03 IST" finished-at="2021-09-16T21:01:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minimize -->
+        <test-method status="PASS" signature="creatcustomer()[pri:5, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="creatcustomer" duration-ms="16372" started-at="2021-09-16T21:01:06 IST" finished-at="2021-09-16T21:01:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatcustomer -->
+        <test-method status="PASS" signature="createproj()[pri:6, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="createproj" duration-ms="6712" started-at="2021-09-16T21:01:22 IST" finished-at="2021-09-16T21:01:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproj -->
+        <test-method status="PASS" signature="modifyproj()[pri:7, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="modifyproj" duration-ms="5315" started-at="2021-09-16T21:01:29 IST" finished-at="2021-09-16T21:01:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifyproj -->
+        <test-method status="PASS" signature="deletcust()[pri:8, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="deletcust" duration-ms="6693" started-at="2021-09-16T21:01:34 IST" finished-at="2021-09-16T21:01:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletcust -->
+        <test-method status="PASS" signature="createuser()[pri:9, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="createuser" duration-ms="20829" started-at="2021-09-16T21:01:41 IST" finished-at="2021-09-16T21:02:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createuser -->
+        <test-method status="PASS" signature="deletuser()[pri:10, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="deletuser" duration-ms="7324" started-at="2021-09-16T21:02:02 IST" finished-at="2021-09-16T21:02:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletuser -->
+        <test-method status="PASS" signature="Logout()[pri:11, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="Logout" duration-ms="2928" started-at="2021-09-16T21:02:09 IST" finished-at="2021-09-16T21:02:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="close()[pri:12, instance:com.Assgnments.suite.Assngnment6@5f3a4b84]" name="close" duration-ms="391" started-at="2021-09-16T21:02:12 IST" finished-at="2021-09-16T21:02:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.Assgnments.suite.Assngnment6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

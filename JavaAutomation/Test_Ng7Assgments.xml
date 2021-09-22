@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test cases">
+  <test name="Assngment1 and Assngment2 and Assgnment3 and Assgnment4 and Assgnment5 and Assngnment6 and Assgnment7">
+    <classes>
+       <class name="com.Assgnments.suite.Assngment1"></class>
+       <class name="com.Assgnments.suite.Assngment2"></class>
+       <class name="com.Assgnments.suite.Assgnment3"></class>
+        <class name="com.Assgnments.suite.Assgnment4"></class>
+        <class name="com.Assgnments.suite.Assgnment5"></class>
+        <class name="com.Assgnments.suite.Assngnment6"></class>
+        <class name="com.Assgnments.suite.Assgnment7"></class>
+       
+    </classes>
+  </test>
+</suite>
