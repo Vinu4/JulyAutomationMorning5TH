@@ -11,7 +11,7 @@ public static WebDriver obj=null;
 		navigate();
 		login();
 		minimize();
-		createuser();
+		// createuser(); modified
 
 	}
 	static void launch()
